@@ -1,6 +1,13 @@
-# 泰山職訓前端班時鐘作業
-發揮創意美化你上課完成的時鐘，並試著加入更多功能  
+# 馬力歐時鐘
 
-## 注意
-請盡量使用上課教的 GUI 工具或 git 指令繳交作業  
-若使用 GitHub 網頁進行 commit 會依次數扣分
+<pre>
+像素風格的網頁時鐘 
+向早期馬力歐遊戲致敬
+全部格子用table打造
+
+- 此版本為網頁版，手機呈現有限
+- 尚未做 RWD，若畫面過大小，可將瀏覽器畫面比例調整
+- 使用之字體「o」在 mac 版會黏在一起
+</pre>
+
+![馬力歐時鐘 gif](https://github.com/Leileisme/MarioClock-JS/blob/main/images/README/mario.gif)
